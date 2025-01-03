@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Project Management Projects:</h2>
 
-- <b>CIBN Mobile Appliction </b>
+- <b>CIBN Mobile Appliction </b>  https://github.com/dunnii21/CIBN-Mobile-app
  
 - <b>MPOS Integration for Finanacial Institutions</b>
 
